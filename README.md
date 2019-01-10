@@ -1,2 +1,6 @@
 # ReactMemeGenerator
-A random meme generator built with React
+A random meme generator built useing:
+React
+Create React App
+Imgflip API
+and love
